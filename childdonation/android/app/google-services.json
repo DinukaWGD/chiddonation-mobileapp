@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "864845920613",
+    "project_id": "childdonation-382e7",
+    "storage_bucket": "childdonation-382e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864845920613:android:30a988cf875d967024098c",
+        "android_client_info": {
+          "package_name": "com.example.childdonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864845920613-d91jds27r9qbikfooi2rqn4etpt9uap9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.childdonation",
+            "certificate_hash": "9db8050c67e649e7317900a9c861dff26d3ba34d"
+          }
+        },
+        {
+          "client_id": "864845920613-p1bs8vvlt1oslrhdgv6ghkgj2qkrjrnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_3uQSTFrkJozG1lHvQ4UPDnqIHWX3KnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864845920613-p1bs8vvlt1oslrhdgv6ghkgj2qkrjrnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
